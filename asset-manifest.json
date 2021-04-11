@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gene-calculator/static/css/main.33f5dfe4.chunk.css",
+    "main.js": "/gene-calculator/static/js/main.93325099.chunk.js",
+    "main.js.map": "/gene-calculator/static/js/main.93325099.chunk.js.map",
+    "runtime-main.js": "/gene-calculator/static/js/runtime-main.701d316d.js",
+    "runtime-main.js.map": "/gene-calculator/static/js/runtime-main.701d316d.js.map",
+    "static/js/2.481648eb.chunk.js": "/gene-calculator/static/js/2.481648eb.chunk.js",
+    "static/js/2.481648eb.chunk.js.map": "/gene-calculator/static/js/2.481648eb.chunk.js.map",
+    "static/js/3.0c118969.chunk.js": "/gene-calculator/static/js/3.0c118969.chunk.js",
+    "static/js/3.0c118969.chunk.js.map": "/gene-calculator/static/js/3.0c118969.chunk.js.map",
+    "index.html": "/gene-calculator/index.html",
+    "static/css/main.33f5dfe4.chunk.css.map": "/gene-calculator/static/css/main.33f5dfe4.chunk.css.map",
+    "static/js/2.481648eb.chunk.js.LICENSE.txt": "/gene-calculator/static/js/2.481648eb.chunk.js.LICENSE.txt",
+    "static/media/logo.d3f32f38.svg": "/gene-calculator/static/media/logo.d3f32f38.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.701d316d.js",
+    "static/js/2.481648eb.chunk.js",
+    "static/css/main.33f5dfe4.chunk.css",
+    "static/js/main.93325099.chunk.js"
+  ]
+}
