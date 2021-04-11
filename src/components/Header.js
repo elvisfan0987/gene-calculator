@@ -1,9 +1,10 @@
 import React from 'react'
+import Navbar from '../components/Navbar/Navbar'
 
 const Header = () => {
     return (
         <header>
-            <h1>Gene Calculator</h1>
+            <Navbar/>
         </header>
     )
 }
